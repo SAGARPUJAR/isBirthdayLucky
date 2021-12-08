@@ -1,0 +1,31 @@
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50em;
+  text-align: center;
+}
+
+div label {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+div input {
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+#check-number {
+  background-color: tomato;
+  color: white;
+  border: none;
+  height: 30px;
+  width: 20%;
+  text-align: center;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: 700;
+}
